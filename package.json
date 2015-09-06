@@ -8,5 +8,6 @@
     "start": "node server.js"
   },
   "author": "lady.blue2015@yahoo.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
