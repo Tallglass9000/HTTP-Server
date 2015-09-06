@@ -4,10 +4,12 @@
   "description": "node http server from node beginner book",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tallglass9000/HTTP-Server/tree/nodeServer"
+  },
   "author": "lady.blue2015@yahoo.com",
-  "license": "MIT",
-  "dependencies": {}
+  "license": "MIT"
 }
