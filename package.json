@@ -1,0 +1,12 @@
+{
+  "name": "httpserver",
+  "version": "0.1.0",
+  "description": "node http server from node beginner book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "lady.blue2015@yahoo.com",
+  "license": "MIT"
+}
